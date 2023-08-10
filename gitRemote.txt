@@ -21,4 +21,3 @@ How to get token
 	select all heading scopes
 
 DUMMY CHANGES
-TEMP CHANGES
